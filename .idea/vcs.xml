@@ -2,5 +2,16 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aula-for" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aula-vetor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculadora" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calcular-bonus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/controle-gastos-familiar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/divisiveis-por-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercicio-desconto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/metodos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/switch-exercicio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/verifica-aposentadoria" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/verifica-aprovacao" vcs="Git" />
   </component>
 </project>
